@@ -1,6 +1,5 @@
 # About Project
 This project made for Ahmet Yesevi Anadolu İmamhatip Highschool for religious education. It was exhibited at the TÜBİTAK science fair. You can change iconic things for personal use.
-![TÜBİTAK](https://user-images.githubusercontent.com/46069238/144297651-64aac11c-9dec-4774-b1f7-a429e8602291.jpg)
 
 # Mobile App
 This is the mobile application. We made it in Turkish. You can change name of buttons 

@@ -1,9 +1,9 @@
 # About Project
 This project made for Ahmet Yesevi Anadolu İmamhatip Highschool for religious education. It was exhibited at the TÜBİTAK science fair. You can change iconic things for personal use.
 
-# Mobile App
-We made application in Turkish.
-![Mobile Application](https://user-images.githubusercontent.com/46069238/144253002-5e43342e-2b4d-41d1-b141-ed50f9566ba4.jpeg)
+# Mobile Application
+I made application in Turkish. You must to have Android Studio for compile project and debug it.<br>
+![Mobile Application](https://user-images.githubusercontent.com/46069238/144253208-54c75568-c0ec-4cfe-8bbf-f08013808968.jpeg)
 
 # Circuit
 You can access fritzing file of circuit from releases or in source files.

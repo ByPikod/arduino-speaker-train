@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Main Activity -->
+    <string name="app_name">Siyer Yolculuğu</string>
+    <string name="main_title">Bluetooth Bekleniyor</string>
+    <string name="bluetooth_check">Kontrol Et</string>
+
+    <!-- Controller -->
+    <string name="buttonForward">İleri</string>
+    <string name="buttonBackward">Geri</string>
+    <string name="stopButton">Durdur</string>
+    <string name="stopSoundButton">Durdur / Devam Ettir</string>
+    <string name="soundsButton">Ses Dosyaları</string>
+
+    <!-- Error Messages -->
+    <string name="done_successfully">İşlem başarılı.</string>
+    <string name="bluetooth_have_to_be_opened">Bluetooth açık olmalıdır.</string>
+    <string name="connect_to_hc05">Tren\'e bağlanılmadı veya başka bir uygulama bluetooth\'u kullanıyor.</string>
+    <string name="output_input_error">Bir hata oluştu, lütfen tekrar deneyin.</string>
+    <string name="unexpected_error">Beklenmedik bir hata oluştu.</string>
+    <string name="textview">TextView</string>
+    <!-- Font Awesome -->
+    <string name="icon_play_circle">&#xf144;</string>
+    <string name="icon_play">&#xf04b;</string>
+    <string name="icon_pause">&#xf04c;</string>
+
+</resources>

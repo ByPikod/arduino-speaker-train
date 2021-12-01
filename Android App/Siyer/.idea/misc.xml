@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sony/Desktop/SiyerYolculugu/Siyer/app/src/main/res/font-v26/fontawesome.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/sony/Desktop/SiyerYolculugu/Siyer/app/src/main/res/font-v26/fontawesome_webfont.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/sony/Desktop/SiyerYolculugu/Siyer/app/src/main/res/font/fontawesome.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/sony/Desktop/SiyerYolculugu/Siyer/app/src/main/res/font/fontawesome_res.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/sony/Desktop/SiyerYolculugu/Siyer/app/src/main/res/layout/activity_bluetooth.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/sony/Desktop/SiyerYolculugu/Siyer/app/src/main/res/layout/activity_controller.xml" value="0.22" />
+        <entry key="..\:/Users/sony/Desktop/SiyerYolculugu/Siyer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/sony/Desktop/SiyerYolculugu/Siyer/app/src/main/res/layout/activity_soundplayer.xml" value="0.2" />
+        <entry key="..\:/Users/sony/Desktop/SiyerYolculugu/Siyer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

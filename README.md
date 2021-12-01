@@ -1,11 +1,10 @@
 # About Project
-This project made for Ahmet Yesevi Anadolu İmamhatip Highschool for religious education. It was exhibited at the TÜBİTAK science fair. You can change iconic things for personal use.<br><br>
+This project made for Ahmet Yesevi Anadolu İmamhatip Highschool for religious education. It was exhibited at the TÜBİTAK science fair. You can change iconic things for personal use.
+![TÜBİTAK](https://user-images.githubusercontent.com/46069238/144297651-64aac11c-9dec-4774-b1f7-a429e8602291.jpg)
 
-Showcase (Click  image for watch the video):<br><br> [![Youtube Video](https://user-images.githubusercontent.com/46069238/144288683-8517b6f3-b5fb-4d38-8800-a1c77794a230.png)](http://www.youtube.com/watch?v=dMZyX4Tav4g "Ülkücü Tren Yaptım (çok riski oldu!)")
-
-# Mobile Application
-I made application in Turkish. You must to have Android Studio for compile project and debug it.<br><br>
-![Mobile Application](https://user-images.githubusercontent.com/46069238/144253208-54c75568-c0ec-4cfe-8bbf-f08013808968.jpeg)
+# Mobile App
+This is the mobile application. We made it in Turkish. You can change name of buttons 
+![WhatsApp Image 2021-11-29 at 09 13 39](https://user-images.githubusercontent.com/46069238/144251885-67a9ce79-00b1-41ad-aab8-9cb341ff7fc6.jpeg)
 
 # Circuit
 You can access fritzing file of circuit from releases or in source files.

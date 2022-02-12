@@ -3,7 +3,7 @@ This project made for Ahmet Yesevi Anadolu İmamhatip Highschool for religious e
 ![262049541_2018118731687001_6694577498181875199_n](https://user-images.githubusercontent.com/46069238/144298443-dc81df48-e051-44dd-9d58-37922084a545.jpg)
 
 # Mobile App
-This is the mobile application. We made it in Turkish. You can change name of buttons<br><br>
+This is the mobile application we made it in Turkish. The texts inside the buttons mean respectively: Forward, Backward, Stop, Sound Files
 ![WhatsApp Image 2021-11-29 at 09 13 39](https://user-images.githubusercontent.com/46069238/144298344-0cbd3691-97a7-40b4-aab1-1698d2a347f0.jpeg)
 
 # Circuit
